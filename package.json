@@ -1,0 +1,19 @@
+{
+  "name": "glayers.leaflet",
+  "version": "1.0.0",
+  "description": "generic  map layers for leaflet 0.7 and 1.0-rc, moving from original GIST here https://gist.github.com/Sumbera/11114288 to this repo.",
+  "main": "L.CanvasLayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloigge/gLayers.Leaflet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloigge/gLayers.Leaflet/issues"
+  },
+  "homepage": "https://github.com/bloigge/gLayers.Leaflet#readme"
+}
